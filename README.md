@@ -1,2 +1,2 @@
 # Algorithm
-> edit with pycharm. Python 3.* only
+> edit with pycharm. Python 3.* only.
